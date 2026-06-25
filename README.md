@@ -70,4 +70,4 @@ Bot: Goodbye! Have a great day.
 - Combine with an LLM for a hybrid rule and generative architecture
 
 ---
-Built as part of the DecodeLabs AI Internship Program (2026).
+Built by Muhammad Moosa Hasan as part of the DecodeLabs AI Internship Program (2026).
