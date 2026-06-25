@@ -32,8 +32,8 @@ This single line handles both the lookup and the fallback in one atomic operatio
 1. Make sure Python 3 is installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/rule-based-ai-chatbot.git
-   cd rule-based-ai-chatbot
+   git clone https://github.com/Moosa26/DecodeLabs-Internship-Project-1.git
+   cd DecodeLabs-Internship-Project-1
    ```
 3. Run the chatbot:
    ```bash
